@@ -1,0 +1,16 @@
+READ 0 ... okay
+WRITE 0 ... okay
+WRITE e61d0 ... page fault
+WRITE e61d0 ... okay
+WRITE e61d0 ... okay
+READ e61d0 ... okay
+READ 4fc18 ... okay
+READ 4fc18 ... okay
+WRITE a07d2 ... page fault
+WRITE a07d2 ... okay
+WRITE a07d2 ... okay
+READ c12b4 ... page fault
+READ c12b4 ... okay
+READ c12b4 ... okay
+READ 0 ... page fault
+WRITE 0 ... okay
